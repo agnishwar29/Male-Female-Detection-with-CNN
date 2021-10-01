@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @agnishwar29
-- 👀 I’m interested in ... App Development
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Tech life
+- 🌱 I’m currently learning ... Python, Java
 - 📫 How to reach me ... - agnishwar29@gmail.com
 
 <!---
